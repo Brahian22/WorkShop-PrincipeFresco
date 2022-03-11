@@ -18,6 +18,7 @@
     padding: 2px 10px;
     /*position: fixed;*/
     z-index: 1;
+    background-color: white;
 
 }
 
@@ -87,7 +88,7 @@ button:hover{
     top: 800px;
     right: 0;
     height: 100px;
-    background-color: black;
+    background-color: #1D1D1D;
     height: 100px;
 }
 
@@ -105,10 +106,6 @@ button:hover{
     height: 800px;
 }
 
-@supports(object-fit: cover){
-    .banner img{
-        height: 100%;
-        object-fit: contain;
-        object-position: center center;
-    }
+.bodyhome {
+    background-image: url("https://res.cloudinary.com/ds5jsdvba/image/upload/v1647030681/PrincipeFresco/cover_zihbux.svg") !important;
 }
