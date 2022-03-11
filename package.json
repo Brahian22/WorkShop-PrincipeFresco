@@ -1,0 +1,23 @@
+{
+  "name": "workshop-principefresco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brahian22/WorkShop-PrincipeFresco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brahian22/WorkShop-PrincipeFresco/issues"
+  },
+  "homepage": "https://github.com/Brahian22/WorkShop-PrincipeFresco#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

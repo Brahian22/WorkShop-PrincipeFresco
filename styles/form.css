@@ -1,0 +1,42 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.main {
+    background-color: #FF906D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 30%;
+    padding: 20px 5px;
+    text-align: center;
+    border-radius: 20px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+}
+input {
+    text-align: left;
+    margin: 10px 0px;
+    padding: 15px 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+button {
+    margin:10px;
+    background-color: black;
+    color: #FF906D;
+    text-align: center;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
