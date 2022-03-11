@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "PepitoEditado",
+      "apellido": "PerezEditado",
+      "correo": "pepito@gmail.com"
+    },
+    {
+      "nombre": "Patico",
+      "apellido": "Torres",
+      "correo": "sara@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Stiven",
+      "apellido": "Gonzalez",
+      "correo": "stevengm45@gmail.com",
+      "id": 4
+    }
+  ]
+}
