@@ -19,7 +19,7 @@ contenedor.addEventListener('click', async (e) => {
         const objeto = lista.find(prenda => prenda.id === Number(id));
  
         localStorage.setItem("detallePrenda", JSON.stringify(objeto));
-        window.location.href = 'home.html';
+        window.location.href = 'details.html';
     }
 })
 
