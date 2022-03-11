@@ -114,4 +114,88 @@ button:hover{
         object-position: center center;
     }
 }
+/*------------------------------------------------*/
+/*Detalle de prendas*/
+#container{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+}
 
+
+.tira_peque{
+    margin-top: 12px;
+    margin: 5px;
+}
+
+.tira_peque img{
+    width: 60px;
+    height: 105px;
+}
+
+.tira_grande{
+    margin-top: 12px;
+    margin: 5px;
+}
+
+.tira_grande img{
+    width: 120px;
+    height: 210px;
+}
+.info{
+    padding: 25px;
+}
+
+.info h3{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.info p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.info .descripcion{
+    font-size: 15px;
+}
+
+#container .tallas{
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+}
+
+#container .tallas:hover{
+    border: 1px solid #000000;
+    background-color: transparent;
+}
+
+.botones_compra{
+    display: flex;
+    flex-direction: column;
+}
+
+#container .btn_añadir{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 3px;
+    width: 280px;
+    margin: 3px;
+}
+#container .btn_comprar{
+    background-color: rgb(0, 81, 255);
+    color: #ffffff;
+    border-radius: 3px;
+    width: 280px;
+    margin: 3px;
+    margin-bottom: 20px;
+}
+
+.btn_comprar:hover{
+    font-weight: 700;
+}
+
+.btn_añadir:hover{
+    font-weight: 700;
+}
