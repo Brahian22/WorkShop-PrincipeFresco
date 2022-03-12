@@ -1,0 +1,10 @@
+{
+    "productos": [
+    {
+    "id": 1,
+    "name": "Crown Sweatshirt",
+    "price": 80,
+    "image1": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1647030646/PrincipeFresco/Rectangle_1_rj0ajb.svg"
+    }
+    ]
+}
