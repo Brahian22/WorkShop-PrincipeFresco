@@ -1,0 +1,14 @@
+.carta  {
+    margin: 5% 3% 0 3% ;
+    text-align: center;
+    display: inline-block !important;
+    box-shadow: 5px 5px 10px 10px rgb(212, 212, 212);
+}
+
+.carta div h5 {
+    font-size: 18px;
+}
+
+.carta div p {
+    font-size: 20px;
+}
