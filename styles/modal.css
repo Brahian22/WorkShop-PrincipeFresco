@@ -1,0 +1,42 @@
+.modal {
+    
+    height: 100%;
+    display: flex;
+    margin: 0px 60%;
+    width: 1000px;
+    margin-top: 80px;
+    border: none;
+}
+
+.info_product {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+.item-modal{
+    margin: 10px;   
+}
+
+.name-product{
+    width: 200px;
+}
+
+.n-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.btn-remove-modal {
+    
+    width: 100px;
+    padding: 10px 15px;
+    border: none;
+    border-top: 2px solid black;
+}
